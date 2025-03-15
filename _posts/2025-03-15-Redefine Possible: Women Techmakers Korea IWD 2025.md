@@ -1,8 +1,8 @@
 ---
 title: "Redefine Possible: Women Techmakers Korea IWD 2025"
 date: 2025-03-15 23:55:00 +/-TTTT
-categories: [정보처리기사]
-tags: [정보처리기사, 프로그래밍 언어 활용]
+categories: [컨퍼런스]
+tags: [컨퍼런스, Women Techmakers]
 math: true
 toc: true
 pin: true
